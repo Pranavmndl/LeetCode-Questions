@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/Pranavmndl/LeetCode-Questions/tree/master/0048-rotate-image) |
 | [0231-power-of-two](https://github.com/Pranavmndl/LeetCode-Questions/tree/master/0231-power-of-two) |
 ## Bit Manipulation
 |  |
@@ -16,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/Pranavmndl/LeetCode-Questions/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/Pranavmndl/LeetCode-Questions/tree/master/0054-spiral-matrix) |
 | [0283-move-zeroes](https://github.com/Pranavmndl/LeetCode-Questions/tree/master/0283-move-zeroes) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Pranavmndl/LeetCode-Questions/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -46,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/Pranavmndl/LeetCode-Questions/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/Pranavmndl/LeetCode-Questions/tree/master/0054-spiral-matrix) |
 | [0766-toeplitz-matrix](https://github.com/Pranavmndl/LeetCode-Questions/tree/master/0766-toeplitz-matrix) |
 | [0867-transpose-matrix](https://github.com/Pranavmndl/LeetCode-Questions/tree/master/0867-transpose-matrix) |
