@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/Pranavmndl/LeetCode-Questions/tree/master/0048-rotate-image) |
+| [0189-rotate-array](https://github.com/Pranavmndl/LeetCode-Questions/tree/master/0189-rotate-array) |
 | [0231-power-of-two](https://github.com/Pranavmndl/LeetCode-Questions/tree/master/0231-power-of-two) |
 ## Bit Manipulation
 |  |
@@ -20,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/Pranavmndl/LeetCode-Questions/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/Pranavmndl/LeetCode-Questions/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/Pranavmndl/LeetCode-Questions/tree/master/0073-set-matrix-zeroes) |
+| [0189-rotate-array](https://github.com/Pranavmndl/LeetCode-Questions/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/Pranavmndl/LeetCode-Questions/tree/master/0283-move-zeroes) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Pranavmndl/LeetCode-Questions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0766-toeplitz-matrix](https://github.com/Pranavmndl/LeetCode-Questions/tree/master/0766-toeplitz-matrix) |
@@ -27,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0189-rotate-array](https://github.com/Pranavmndl/LeetCode-Questions/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/Pranavmndl/LeetCode-Questions/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/Pranavmndl/LeetCode-Questions/tree/master/0344-reverse-string) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Pranavmndl/LeetCode-Questions/tree/master/0350-intersection-of-two-arrays-ii) |
