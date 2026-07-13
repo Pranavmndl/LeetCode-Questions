@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/Pranavmndl/LeetCode-Questions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0766-toeplitz-matrix](https://github.com/Pranavmndl/LeetCode-Questions/tree/master/0766-toeplitz-matrix) |
 | [0867-transpose-matrix](https://github.com/Pranavmndl/LeetCode-Questions/tree/master/0867-transpose-matrix) |
+| [1502-can-make-arithmetic-progression-from-sequence](https://github.com/Pranavmndl/LeetCode-Questions/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
 ## Two Pointers
 |  |
 | ------- |
@@ -51,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Pranavmndl/LeetCode-Questions/tree/master/0350-intersection-of-two-arrays-ii) |
+| [1502-can-make-arithmetic-progression-from-sequence](https://github.com/Pranavmndl/LeetCode-Questions/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
 ## Matrix
 |  |
 | ------- |
