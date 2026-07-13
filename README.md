@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/Pranavmndl/LeetCode-Questions/tree/master/0048-rotate-image) |
+| [0053-maximum-subarray](https://github.com/Pranavmndl/LeetCode-Questions/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/Pranavmndl/LeetCode-Questions/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/Pranavmndl/LeetCode-Questions/tree/master/0073-set-matrix-zeroes) |
 | [0189-rotate-array](https://github.com/Pranavmndl/LeetCode-Questions/tree/master/0189-rotate-array) |
@@ -63,4 +64,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0054-spiral-matrix](https://github.com/Pranavmndl/LeetCode-Questions/tree/master/0054-spiral-matrix) |
 | [0867-transpose-matrix](https://github.com/Pranavmndl/LeetCode-Questions/tree/master/0867-transpose-matrix) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/Pranavmndl/LeetCode-Questions/tree/master/0053-maximum-subarray) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/Pranavmndl/LeetCode-Questions/tree/master/0053-maximum-subarray) |
 <!---LeetCode Topics End-->
