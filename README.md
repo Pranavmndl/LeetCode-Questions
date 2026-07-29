@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/Pranavmndl/LeetCode-Questions/tree/master/0002-add-two-numbers) |
 | [0009-palindrome-number](https://github.com/Pranavmndl/LeetCode-Questions/tree/master/0009-palindrome-number) |
 | [0048-rotate-image](https://github.com/Pranavmndl/LeetCode-Questions/tree/master/0048-rotate-image) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/Pranavmndl/LeetCode-Questions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0189-rotate-array](https://github.com/Pranavmndl/LeetCode-Questions/tree/master/0189-rotate-array) |
 | [0231-power-of-two](https://github.com/Pranavmndl/LeetCode-Questions/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/Pranavmndl/LeetCode-Questions/tree/master/0268-missing-number) |
@@ -31,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/Pranavmndl/LeetCode-Questions/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/Pranavmndl/LeetCode-Questions/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/Pranavmndl/LeetCode-Questions/tree/master/0073-set-matrix-zeroes) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/Pranavmndl/LeetCode-Questions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0189-rotate-array](https://github.com/Pranavmndl/LeetCode-Questions/tree/master/0189-rotate-array) |
 | [0238-product-of-array-except-self](https://github.com/Pranavmndl/LeetCode-Questions/tree/master/0238-product-of-array-except-self) |
 | [0268-missing-number](https://github.com/Pranavmndl/LeetCode-Questions/tree/master/0268-missing-number) |
@@ -131,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Pranavmndl/LeetCode-Questions/tree/master/0020-valid-parentheses) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/Pranavmndl/LeetCode-Questions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/Pranavmndl/LeetCode-Questions/tree/master/0155-min-stack) |
 | [0234-palindrome-linked-list](https://github.com/Pranavmndl/LeetCode-Questions/tree/master/0234-palindrome-linked-list) |
 | [0445-add-two-numbers-ii](https://github.com/Pranavmndl/LeetCode-Questions/tree/master/0445-add-two-numbers-ii) |
