@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/Pranavmndl/LeetCode-Questions/tree/master/0048-rotate-image) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Pranavmndl/LeetCode-Questions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0189-rotate-array](https://github.com/Pranavmndl/LeetCode-Questions/tree/master/0189-rotate-array) |
+| [0227-basic-calculator-ii](https://github.com/Pranavmndl/LeetCode-Questions/tree/master/0227-basic-calculator-ii) |
 | [0231-power-of-two](https://github.com/Pranavmndl/LeetCode-Questions/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/Pranavmndl/LeetCode-Questions/tree/master/0268-missing-number) |
 | [0445-add-two-numbers-ii](https://github.com/Pranavmndl/LeetCode-Questions/tree/master/0445-add-two-numbers-ii) |
@@ -57,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Pranavmndl/LeetCode-Questions/tree/master/0020-valid-parentheses) |
+| [0227-basic-calculator-ii](https://github.com/Pranavmndl/LeetCode-Questions/tree/master/0227-basic-calculator-ii) |
 | [0344-reverse-string](https://github.com/Pranavmndl/LeetCode-Questions/tree/master/0344-reverse-string) |
 ## Hash Table
 |  |
@@ -135,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/Pranavmndl/LeetCode-Questions/tree/master/0020-valid-parentheses) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Pranavmndl/LeetCode-Questions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/Pranavmndl/LeetCode-Questions/tree/master/0155-min-stack) |
+| [0227-basic-calculator-ii](https://github.com/Pranavmndl/LeetCode-Questions/tree/master/0227-basic-calculator-ii) |
 | [0234-palindrome-linked-list](https://github.com/Pranavmndl/LeetCode-Questions/tree/master/0234-palindrome-linked-list) |
 | [0445-add-two-numbers-ii](https://github.com/Pranavmndl/LeetCode-Questions/tree/master/0445-add-two-numbers-ii) |
 <!---LeetCode Topics End-->
