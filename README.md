@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Pranavmndl/LeetCode-Questions/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Pranavmndl/LeetCode-Questions/tree/master/0283-move-zeroes) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Pranavmndl/LeetCode-Questions/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0641-design-circular-deque](https://github.com/Pranavmndl/LeetCode-Questions/tree/master/0641-design-circular-deque) |
 | [0766-toeplitz-matrix](https://github.com/Pranavmndl/LeetCode-Questions/tree/master/0766-toeplitz-matrix) |
 | [0867-transpose-matrix](https://github.com/Pranavmndl/LeetCode-Questions/tree/master/0867-transpose-matrix) |
 | [0918-maximum-sum-circular-subarray](https://github.com/Pranavmndl/LeetCode-Questions/tree/master/0918-maximum-sum-circular-subarray) |
@@ -110,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0232-implement-queue-using-stacks](https://github.com/Pranavmndl/LeetCode-Questions/tree/master/0232-implement-queue-using-stacks) |
+| [0641-design-circular-deque](https://github.com/Pranavmndl/LeetCode-Questions/tree/master/0641-design-circular-deque) |
 | [0918-maximum-sum-circular-subarray](https://github.com/Pranavmndl/LeetCode-Questions/tree/master/0918-maximum-sum-circular-subarray) |
 ## Monotonic Queue
 |  |
@@ -125,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0206-reverse-linked-list](https://github.com/Pranavmndl/LeetCode-Questions/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/Pranavmndl/LeetCode-Questions/tree/master/0234-palindrome-linked-list) |
 | [0445-add-two-numbers-ii](https://github.com/Pranavmndl/LeetCode-Questions/tree/master/0445-add-two-numbers-ii) |
+| [0641-design-circular-deque](https://github.com/Pranavmndl/LeetCode-Questions/tree/master/0641-design-circular-deque) |
 | [0707-design-linked-list](https://github.com/Pranavmndl/LeetCode-Questions/tree/master/0707-design-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/Pranavmndl/LeetCode-Questions/tree/master/0876-middle-of-the-linked-list) |
 ## Design
@@ -132,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0155-min-stack](https://github.com/Pranavmndl/LeetCode-Questions/tree/master/0155-min-stack) |
 | [0232-implement-queue-using-stacks](https://github.com/Pranavmndl/LeetCode-Questions/tree/master/0232-implement-queue-using-stacks) |
+| [0641-design-circular-deque](https://github.com/Pranavmndl/LeetCode-Questions/tree/master/0641-design-circular-deque) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/Pranavmndl/LeetCode-Questions/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0707-design-linked-list](https://github.com/Pranavmndl/LeetCode-Questions/tree/master/0707-design-linked-list) |
 ## Stack
