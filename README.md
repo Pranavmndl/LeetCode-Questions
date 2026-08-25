@@ -117,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0053-maximum-subarray](https://github.com/Pranavmndl/LeetCode-Questions/tree/master/0053-maximum-subarray) |
 | [0918-maximum-sum-circular-subarray](https://github.com/Pranavmndl/LeetCode-Questions/tree/master/0918-maximum-sum-circular-subarray) |
+| [0968-binary-tree-cameras](https://github.com/Pranavmndl/LeetCode-Questions/tree/master/0968-binary-tree-cameras) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -185,6 +186,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0700-search-in-a-binary-search-tree](https://github.com/Pranavmndl/LeetCode-Questions/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/Pranavmndl/LeetCode-Questions/tree/master/0701-insert-into-a-binary-search-tree) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/Pranavmndl/LeetCode-Questions/tree/master/0703-kth-largest-element-in-a-stream) |
+| [0968-binary-tree-cameras](https://github.com/Pranavmndl/LeetCode-Questions/tree/master/0968-binary-tree-cameras) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -217,6 +219,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0700-search-in-a-binary-search-tree](https://github.com/Pranavmndl/LeetCode-Questions/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/Pranavmndl/LeetCode-Questions/tree/master/0701-insert-into-a-binary-search-tree) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/Pranavmndl/LeetCode-Questions/tree/master/0703-kth-largest-element-in-a-stream) |
+| [0968-binary-tree-cameras](https://github.com/Pranavmndl/LeetCode-Questions/tree/master/0968-binary-tree-cameras) |
 ## Data Stream
 |  |
 | ------- |
@@ -257,6 +260,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Pranavmndl/LeetCode-Questions/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Pranavmndl/LeetCode-Questions/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0404-sum-of-left-leaves](https://github.com/Pranavmndl/LeetCode-Questions/tree/master/0404-sum-of-left-leaves) |
+| [0968-binary-tree-cameras](https://github.com/Pranavmndl/LeetCode-Questions/tree/master/0968-binary-tree-cameras) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -276,4 +280,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Pranavmndl/LeetCode-Questions/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Pranavmndl/LeetCode-Questions/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+## DP on Trees
+|  |
+| ------- |
+| [0968-binary-tree-cameras](https://github.com/Pranavmndl/LeetCode-Questions/tree/master/0968-binary-tree-cameras) |
 <!---LeetCode Topics End-->
