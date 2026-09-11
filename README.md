@@ -269,6 +269,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0785-is-graph-bipartite](https://github.com/Pranavmndl/LeetCode-Questions/tree/master/0785-is-graph-bipartite) |
 | [0841-keys-and-rooms](https://github.com/Pranavmndl/LeetCode-Questions/tree/master/0841-keys-and-rooms) |
 | [0968-binary-tree-cameras](https://github.com/Pranavmndl/LeetCode-Questions/tree/master/0968-binary-tree-cameras) |
+| [1192-critical-connections-in-a-network](https://github.com/Pranavmndl/LeetCode-Questions/tree/master/1192-critical-connections-in-a-network) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -311,6 +312,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0684-redundant-connection](https://github.com/Pranavmndl/LeetCode-Questions/tree/master/0684-redundant-connection) |
 | [0785-is-graph-bipartite](https://github.com/Pranavmndl/LeetCode-Questions/tree/master/0785-is-graph-bipartite) |
 | [0841-keys-and-rooms](https://github.com/Pranavmndl/LeetCode-Questions/tree/master/0841-keys-and-rooms) |
+| [1192-critical-connections-in-a-network](https://github.com/Pranavmndl/LeetCode-Questions/tree/master/1192-critical-connections-in-a-network) |
 ## Graph Coloring
 |  |
 | ------- |
@@ -319,4 +321,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0785-is-graph-bipartite](https://github.com/Pranavmndl/LeetCode-Questions/tree/master/0785-is-graph-bipartite) |
+## Biconnected Component
+|  |
+| ------- |
+| [1192-critical-connections-in-a-network](https://github.com/Pranavmndl/LeetCode-Questions/tree/master/1192-critical-connections-in-a-network) |
+## Bridge (Graph)
+|  |
+| ------- |
+| [1192-critical-connections-in-a-network](https://github.com/Pranavmndl/LeetCode-Questions/tree/master/1192-critical-connections-in-a-network) |
 <!---LeetCode Topics End-->
