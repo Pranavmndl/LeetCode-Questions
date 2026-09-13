@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/Pranavmndl/LeetCode-Questions/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Pranavmndl/LeetCode-Questions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0035-search-insert-position](https://github.com/Pranavmndl/LeetCode-Questions/tree/master/0035-search-insert-position) |
 | [0048-rotate-image](https://github.com/Pranavmndl/LeetCode-Questions/tree/master/0048-rotate-image) |
@@ -54,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/Pranavmndl/LeetCode-Questions/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Pranavmndl/LeetCode-Questions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0141-linked-list-cycle](https://github.com/Pranavmndl/LeetCode-Questions/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Pranavmndl/LeetCode-Questions/tree/master/0142-linked-list-cycle-ii) |
@@ -253,6 +255,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/Pranavmndl/LeetCode-Questions/tree/master/0011-container-with-most-water) |
 | [0621-task-scheduler](https://github.com/Pranavmndl/LeetCode-Questions/tree/master/0621-task-scheduler) |
 ## Depth-First Search
 |  |
