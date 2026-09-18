@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Pranavmndl/LeetCode-Questions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Pranavmndl/LeetCode-Questions/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Pranavmndl/LeetCode-Questions/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0162-find-peak-element](https://github.com/Pranavmndl/LeetCode-Questions/tree/master/0162-find-peak-element) |
 | [0189-rotate-array](https://github.com/Pranavmndl/LeetCode-Questions/tree/master/0189-rotate-array) |
 | [0238-product-of-array-except-self](https://github.com/Pranavmndl/LeetCode-Questions/tree/master/0238-product-of-array-except-self) |
 | [0239-sliding-window-maximum](https://github.com/Pranavmndl/LeetCode-Questions/tree/master/0239-sliding-window-maximum) |
@@ -91,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/Pranavmndl/LeetCode-Questions/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/Pranavmndl/LeetCode-Questions/tree/master/0035-search-insert-position) |
+| [0162-find-peak-element](https://github.com/Pranavmndl/LeetCode-Questions/tree/master/0162-find-peak-element) |
 | [0268-missing-number](https://github.com/Pranavmndl/LeetCode-Questions/tree/master/0268-missing-number) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Pranavmndl/LeetCode-Questions/tree/master/0350-intersection-of-two-arrays-ii) |
 ## Sorting
